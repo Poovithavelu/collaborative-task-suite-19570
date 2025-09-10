@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 10, "git_revision": "", "state": 1, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "hash": "8ab5f10a55cbd19bc34983155c8f2b60", "format-version": 4, "code-base-name": "db_supabase", "filename": "db_supabase/migrate.sh", "knowledge_revision": 20}
